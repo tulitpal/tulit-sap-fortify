@@ -1,0 +1,5 @@
+Application started at 2021/06/24 03:22:42 - Monitoring has begun
+ALERT CREATED ||| Received at 2021/06/24 03:32:44 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 03:52:43 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:02:43 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+Application ended at 2021/06/24 04:02:43 - Monitoring has stopped
