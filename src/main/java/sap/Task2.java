@@ -21,7 +21,7 @@ public class Task2 {
 
     public static void main(String args[]) {
         try {
-        	// Name of the output file is specified to be MaintainanceModeLog.txt
+            // Name of the output file is specified to be MaintainanceModeLog.txt
             final String filename = "MaintainanceModeLog.txt";
             FileWriter openingNotes = new FileWriter(filename, true);
             // Printing the starting time of the application to the MaintainanceModeLog.txt file
@@ -57,7 +57,7 @@ public class Task2 {
                 }
             }, 30, MINUTES); // Time limit of 30 minutes is specified
 
-        } catch (IOException e) {
+        } catch (Exception e) { // Any exception thrown is printed along with the time-stamp and absorbed in order to not hamper the code flow
             System.out.println("Encounted exception at " + DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss").format(LocalDateTime.now()));
             e.printStackTrace();
         }
