@@ -1,2 +1,0 @@
-Application started from 2021/06/24 01:05:08 Monitoring has begun
-ALERT CREATED ||| Received at 2021/06/24 01:06:09 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
