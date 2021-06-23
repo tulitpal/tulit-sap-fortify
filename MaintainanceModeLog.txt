@@ -1,5 +1,19 @@
-Application started at 2021/06/24 03:22:42 - Monitoring has begun
-ALERT CREATED ||| Received at 2021/06/24 03:32:44 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
-ALERT CREATED ||| Received at 2021/06/24 03:52:43 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
-ALERT CREATED ||| Received at 2021/06/24 04:02:43 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
-Application ended at 2021/06/24 04:02:43 - Monitoring has stopped
+Application started at 2021/06/24 04:08:06 - Monitoring has begun
+ALERT CREATED ||| Received at 2021/06/24 04:09:07 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:10:07 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:12:07 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:13:07 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:14:07 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:16:07 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:17:07 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:18:07 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:19:07 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:20:07 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:21:07 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:27:07 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:29:09 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:30:07 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:33:07 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:34:07 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+ALERT CREATED ||| Received at 2021/06/24 04:38:07 ||| Response from application-state-controller: {"data":{"restartRequired":false,"configVisitRequired":false,"maintenanceMode":true,"autoConfigurationMode":true},"responseCode":200}
+Application ended at 2021/06/24 04:38:07 - Monitoring has stopped
